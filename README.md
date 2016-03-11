@@ -10,11 +10,11 @@
 - Alright, currently only a landing page...
 
 ## Contact Info
-Our Chat
-[![Join the chat at https://gitter.im/mohamadir/7evre](https://badges.gitter.im/robi-y/seproject-team-template.svg)](https://gitter.im/mohamadir/7evre)
-<br />
-Our Email
+###Our Email
 15.minutes.org@gmail.com
+
+###Our Facebook Page
+[Facebook page](https://www.facebook.com/15.minutes.org/)
 
 
 ## [Issue Board](https://huboard.com/robi-y/seproject-team-template#/) (soon...)
