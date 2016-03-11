@@ -1,4 +1,4 @@
-# seproject-team-template
+# 15 minutes
 
 A template repository with wiki for a team project at JCE's software engineering course
 
