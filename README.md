@@ -11,10 +11,10 @@
 
 ## Contact Info
 Our Chat
-[![Join the chat at https://gitter.im/moria0525/MadeinJLM-students](https://badges.gitter.im/robi-y/seproject-team-template.svg)](https://gitter.im/moria0525/MadeinJLM-students?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/mohamadir/7evre](https://badges.gitter.im/robi-y/seproject-team-template.svg)](https://gitter.im/mohamadir/7evre)
 <br />
 Our Email
-madeinjlm.jce@gmail.com
+15.minutes.org@gmail.com
 
 
 ## [Issue Board](https://huboard.com/robi-y/seproject-team-template#/) (soon...)
@@ -28,7 +28,7 @@ Please visit our wiki for furthur project info:
 
 ### [Team Page](../../wiki/team)
 [![Hadiab](https://avatars2.githubusercontent.com/u/8047742?v=3&u=cb3649ac4510b5df3fbec80caef9f32f992263c6&s=140)](https://github.com/hadiab)
-[![Mohamd](https://avatars1.githubusercontent.com/u/17565537?v=3&s=460)](https://github.com/mohamadir)
+[![Mohamd](https://avatars3.githubusercontent.com/u/17565537?v=3&u=447f3952a4221744da8803cfb4599dddcf033a86&s=140)](https://github.com/mohamadir)
 [![mayas]()](https://github.com/mayasma)
 [![hosen]()](https://github.com/hosenja)
 [![osyed]()](https://github.com/osyejda)
@@ -38,10 +38,10 @@ Please visit our wiki for furthur project info:
 - [Project Inception](../../wiki/Project-Inception-and-Planing)
 - [Software Requirements Specification](../../wiki/srs)
 - [Software Design Specification](../../wiki/sds)
-- [Organization Facebook page] (https://www.facebook.com/MadeinJLM/?fref=ts)
+- [Organization Facebook page] (https://www.facebook.com/15.minutes.org/)
 
 ### Iteration Pages
-- [Iteration 0 - ZFR](../../wiki/iter0-zfr)
+- [Iteration 0 - ZFR]()
 - [Iteration 1 - MVP]()
 - [Iteration 2 - Feature X]()
 - [Iteration 3 - Feature Y]()
