@@ -29,9 +29,9 @@ Please visit our wiki for furthur project info:
 ### [Team Page](../../wiki/team)
 [![Hadiab](https://avatars2.githubusercontent.com/u/8047742?v=3&u=cb3649ac4510b5df3fbec80caef9f32f992263c6&s=140)](https://github.com/hadiab)
 [![Mohamd](https://avatars3.githubusercontent.com/u/17565537?v=3&u=447f3952a4221744da8803cfb4599dddcf033a86&s=140)](https://github.com/mohamadir)
+[![osyed](https://avatars3.githubusercontent.com/u/17565547?v=3&u=4725c9270895a13711af0c4785dd0c3b68047bc1&s=140)](https://github.com/osyejda)
 [![mayas]()](https://github.com/mayasma)
 [![hosen]()](https://github.com/hosenja)
-[![osyed]()](https://github.com/osyejda)
 
 ### Project Documents
 - [Project Idea](docs/idea.pdf) ([Presentation](docs/Presentation.pdf))
