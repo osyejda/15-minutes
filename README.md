@@ -10,11 +10,12 @@
 - Alright, currently only a landing page...
 
 ## Contact Info
-###Our Email
-15.minutes.org@gmail.com
 
 ###Our Facebook Page
 [Facebook page](https://www.facebook.com/15.minutes.org/)
+
+###Our Email
+15.minutes.org@gmail.com
 
 
 ## [Issue Board](https://huboard.com/robi-y/seproject-team-template#/) (soon...)
